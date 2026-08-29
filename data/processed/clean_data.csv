@@ -1,0 +1,43 @@
+event_id,mag,depth_km,sig,felt,cdi,gap,dmin,nst,tsunami,type,distance_direction,region,depth_category,pct_of_great_threshold,significant,sensor_status,battery_pct,last_ping_offset_sec,mag_scaled
+ci41538696,0.24,7.67,2,0,0,43,0.03358,25,0,earthquake,12 km WNW,"Anza, CA",shallow,3.0,0,nominal,22.3,1991,0.0
+ak2026rcboct,1.5,143.7,32,0,0,123,0.1,15,0,earthquake,52 km WNW,"Cantwell, Alaska",intermediate,18.75,0,offline,80.3,1394,0.2647058823529412
+nc75426767,1.74,5.07,41,0,0,43,0.06717,14,0,earthquake,3 km S,"Redwood Valley, CA",shallow,21.75,0,maintenance,45.8,567,0.31512605042016806
+ci41538688,0.84,7.89,12,0,0,57,0.07476,23,0,earthquake,19 km ESE,"Little Lake, CA",shallow,10.5,0,,,,0.12605042016806722
+tx2026qzhxnm,1.6,4.8244,37,0,0,93,0.1,31,0,earthquake,17 km WNW,"Mentone, Texas",shallow,20.0,0,nominal,28.0,656,0.28571428571428575
+nc75426762,0.69,2.44,8,0,0,84,0.007631,10,0,earthquake,8 km NW,"The Geysers, CA",shallow,8.625,0,maintenance,90.2,2634,0.09453781512605042
+ak2026rcailk,1.4,18.3,28,0,0,234,0.3,6,0,earthquake,98 km ESE,"McCarthy, Alaska",shallow,17.5,0,offline,78.5,1755,0.24369747899159663
+tx2026qzhblg,1.7,4.8268,41,0,0,91,0.1,34,0,earthquake,17 km WNW,"Mentone, Texas",shallow,21.25,0,degraded,76.5,2339,0.3067226890756303
+hv75026267,2.06,32.33,60,0,0,96,0.006357,39,0,earthquake,5 km NNW,"Pāhala, Hawaii",shallow,25.75,0,offline,33.1,2045,0.3823529411764706
+us7000tct5,2.6,10.0,101,0,0,281,2.563,20,0,earthquake,264 km W,"Ferndale, California",shallow,32.5,0,,,,0.49579831932773116
+tx2026qzgsev,1.5,9.8574,32,0,0,127,0.1,6,0,earthquake,34 km NNW,"Mentone, Texas",shallow,18.75,0,,,,0.2647058823529412
+us7000tct6,4.7,10.0,322,12,3.4,96,5.714,33,0,earthquake,25 km ESE,"Lospalos, Timor Leste",shallow,58.75,0,degraded,65.0,30,0.9369747899159664
+ak2026rbzqxb,0.7,20.2,8,0,0,202,0.3,6,0,earthquake,33 km NNE,"Four Mile Road, Alaska",shallow,8.75,0,maintenance,65.7,1577,0.09663865546218488
+nc75426752,0.53,1.61,5,0,0,113,0.005736,11,0,earthquake,9 km NW,"The Geysers, CA",shallow,6.625,0,offline,49.1,272,0.06092436974789917
+ak2026rbziag,2.4,100.8,81,0,0,58,0.1,53,0,earthquake,48 km SSW,"Skwentna, Alaska",intermediate,30.0,0,nominal,75.2,242,0.45378151260504207
+ak2026rbzdpd,1.9,25.7,51,0,0,51,0.1,21,0,earthquake,11 km WSW,"Tatitlek, Alaska",shallow,23.75,0,nominal,24.5,1487,0.3487394957983193
+ci41538680,0.88,2.16,13,0,0,49,0.08171,31,0,earthquake,15 km SW,"Searles Valley, CA",shallow,11.0,0,degraded,75.6,1635,0.13445378151260506
+hv75026247,1.7,32.89,41,0,0,264,0.1518,20,0,earthquake,21 km SE,"Pāhala, Hawaii",shallow,21.25,0,offline,35.4,987,0.3067226890756303
+tx2026qzfvrd,1.4,3.7331,28,0,0,35,0.1,64,0,earthquake,15 km WSW,"Stanton, Texas",shallow,17.5,0,nominal,98.1,2182,0.24369747899159663
+ak2026rbyktl,1.6,21.5,37,0,0,95,0.2,22,0,earthquake,5 km N,"Tanaina, Alaska",shallow,20.0,0,maintenance,31.2,398,0.28571428571428575
+ci41538672,0.91,14.05,14,0,0,37,0.08355,46,0,earthquake,9 km SSW,"Calimesa, CA",shallow,11.375,0,nominal,72.8,470,0.14075630252100843
+us7000tcsv,4.2,602.27,256,0,0,97,5.025,25,0,earthquake,south,the Fiji Islands,deep,52.5,0,nominal,65.9,2002,0.8319327731092437
+ci41538656,0.79,6.89,11,0,0,95,0.05408,31,0,earthquake,17 km WSW,"Johannesburg, CA",shallow,9.875,0,offline,52.2,2120,0.11554621848739498
+us7000tcsu,5.0,41.899,385,4,2.7,64,8.329,72,0,earthquake,64 km W,"Labuha, Indonesia",shallow,62.5,1,offline,86.6,3179,1.0
+ci41538640,1.8,11.33,47,0,0,69,0.1308,43,0,earthquake,28 km ESE,"Campo, CA",shallow,22.5,0,offline,71.9,878,0.3277310924369748
+us7000tcss,2.9,10.0,125,0,0,264,2.433,37,0,earthquake,250 km W,"Ferndale, California",shallow,36.25,0,nominal,39.9,648,0.5588235294117647
+us7000tcsr,2.8,10.0,117,0,0,264,2.041,33,0,earthquake,209 km W,"Ferndale, California",shallow,35.0,0,offline,86.5,2080,0.5378151260504201
+ci41538632,1.12,10.05,21,0,0,32,0.04949,61,0,earthquake,9 km ESE,"Borrego Springs, CA",shallow,14.000000000000002,0,degraded,20.7,129,0.18487394957983197
+tx2026qzdgja,1.7,-0.001,41,0,0,193,0.1,6,0,earthquake,17 km S,"McKinney Acres, Texas",shallow,21.25,0,maintenance,15.3,2958,0.3067226890756303
+nc75426712,1.48,8.28,32,0,0,103,0.04068,9,0,earthquake,9 km N,"Redwood Valley, CA",shallow,18.5,0,degraded,92.6,2324,0.2605042016806723
+us7000tcsm,4.9,89.886,370,0,0,68,6.808,50,0,earthquake,,South Sandwich Islands region,intermediate,61.25000000000001,0,offline,97.6,3121,0.9789915966386555
+ci41538624,1.8,1.67,47,0,0,53,0.1206,28,0,earthquake,43 km SW,"Stovepipe Wells, CA",shallow,22.5,0,offline,21.0,975,0.3277310924369748
+tx2026qzbwlz,1.8,2.7398,47,0,0,101,0.1,40,0,earthquake,12 km NNW,"Snyder, Texas",shallow,22.5,0,degraded,28.0,3124,0.3277310924369748
+ci41538608,1.38,10.91,30,0,0,33,0.07367,67,0,earthquake,23 km ESE,"Julian, CA",shallow,17.25,0,,,,0.2394957983193277
+tx2026qzbnxm,1.2,4.1006,23,0,0,70,0.1,21,0,earthquake,36 km SSE,"Midland, Texas",shallow,15.0,0,degraded,58.2,436,0.20168067226890757
+ci41538600,1.34,1.99,29,0,0,51,0.04572,28,0,earthquake,10 km ENE,"Coso Junction, CA",shallow,16.75,0,maintenance,25.3,921,0.23109243697478996
+us7000tcsc,4.8,60.935,356,0,0,111,2.986,68,0,earthquake,29 km ENE,"Pilar, Philippines",shallow,60.0,0,maintenance,27.1,572,0.9579831932773109
+nc75426692,1.31,1.3,27,0,0,84,0.007104,22,0,earthquake,2 km NE,"The Geysers, CA",shallow,16.375,0,maintenance,97.0,2209,0.2247899159663866
+ak2026rbtuxk,2.2,18.3,68,0,0,82,0.5,29,0,earthquake,51 km NNE,"Chenega, Alaska",shallow,27.500000000000004,0,degraded,78.3,2208,0.411764705882353
+ci41538592,0.68,11.89,7,0,0,52,0.02689,41,0,earthquake,11 km N,"Borrego Springs, CA",shallow,8.5,0,nominal,34.5,132,0.09243697478991598
+hv75026147,1.85,6.36,49,0,0,46,0.0242,40,0,earthquake,17 km NNE,"Pāhala, Hawaii",shallow,23.125,0,degraded,25.9,1947,0.3382352941176471
+us7000tcs8,3.5,10.0,173,0,0,222,2.684,40,0,earthquake,off the coast,Oregon,shallow,43.75,0,maintenance,65.7,1918,0.6848739495798319
